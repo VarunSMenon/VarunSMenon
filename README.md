@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **VarunSMenon/VarunSMenon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Welcome to the Stage 🎸  
+Hey there, wanderer of the digital realms! I'm Varun — coder by day, riff-slinger by night.  
+This GitHub is my amplifier where I blast out projects, ideas, and experiments at full volume.
