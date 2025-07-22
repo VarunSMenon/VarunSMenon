@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Welcome to the Stage 🎸  
-Hey there, wanderer of the digital realms! I'm Varun — coder by day, riff-slinger by night.  
+Hey there, wanderer of the digital realms! I'm Varun - coder by day, riff-slinger by night.  
 This GitHub is my amplifier where I blast out projects, ideas, and experiments at full volume.
 
